@@ -1,4 +1,5 @@
 "use strict";
+const L = require('leaflet');
 
 L.Realtime = L.Layer.extend({
     options: {
