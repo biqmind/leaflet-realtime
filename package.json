@@ -1,6 +1,6 @@
 {
-  "name": "leaflet-realtime",
-  "version": "2.1.1",
+  "name": "@pyfarm/leaflet-realtime",
+  "version": "2.1.2",
   "description": "Show realtime updated GeoJSON in Leaflet",
   "main": "src/L.Realtime.js",
   "directories": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/perliedman/leaflet-realtime.git"
+    "url": "git://github.com/biqmind/leaflet-realtime.git"
   },
   "scripts": {
     "prepublish": "grunt",
